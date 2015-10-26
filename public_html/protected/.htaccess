@@ -1,0 +1,4 @@
+AuthUserFile "/home/amruta/serverProject/server-2015-Z/.htpassword"
+AuthType Basic
+AuthName "I Challenge You"
+Require valid-user
